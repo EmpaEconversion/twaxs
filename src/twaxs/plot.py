@@ -403,3 +403,4 @@ def vertical_compare(
 def hey_bro():
     print("Hey Bro")
     print("Hey Girls")
+    print("It is snowwwwing")
