@@ -399,3 +399,6 @@ def vertical_compare(
             {"Position": positions, "Average Peak Height": avg_peak_heights}
         )
         df_export.to_excel(export_table, index=False)
+
+def hey_bro():
+    print("Hey Bro")
